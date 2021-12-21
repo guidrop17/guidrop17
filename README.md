@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Iaeee, eu sou o Guilherme Araujo, Dev front-end e criador de conteúdo gamer!</h2>
+<h3>Iaeee, eu sou o Guilherme Araujo, Dev front-end e criador de conteúdo gamer!</h3>
 <img src="https://user-images.githubusercontent.com/29720117/140941802-c7d2b004-65c3-472d-85fe-a5b4c03296bb.gif"</>
 </div>
 
