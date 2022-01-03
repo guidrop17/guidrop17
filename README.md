@@ -1,6 +1,6 @@
 <div align="center">
 <h4>Iaee, eu sou o Guilherme Araujo, Dev front-end e criador de conteúdo gamer!</h4>
-<img src="https://user-images.githubusercontent.com/29720117/140941802-c7d2b004-65c3-472d-85fe-a5b4c03296bb.gif"</>
+<img src="https://user-images.githubusercontent.com/29720117/140941802-c7d2b004-65c3-472d-85fe-a5b4c03296bb.gif"/>
 </div>
 
 ##
@@ -30,3 +30,6 @@
  </div>
   
 ![Snake animation](https://github.com/guidrop17/guidrop17/blob/output/github-contribution-grid-snake.svg)
+![Visitor Count](https://profile-counter.glitch.me/{guidrop17}/count.svg)
+
+
