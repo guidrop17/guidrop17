@@ -1,12 +1,28 @@
-<div align="center">
-<h4>Iaee, eu sou o Guilherme Araujo, Dev front-end e criador de conteúdo gamer!</h4>
-<img src="https://user-images.githubusercontent.com/29720117/140941802-c7d2b004-65c3-472d-85fe-a5b4c03296bb.gif"/>
-</div>
+
+<h3>Olá Galera 👋</h3>
+<p>Sou Dev front-end e criador de conteúdo gamer nas horas vagas!</p>
+
+
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://user-images.githubusercontent.com/29720117/178900112-19b418b5-8411-4d68-a3ef-4f5adc1bd179.png"/>
+
+```kotlin
+object **SEU NOME** {
+ const name = "Guilherme Araujo Nascimento"
+ const acknowledgements = "Dev React (aprendendo C#)"
+ 
+ const primarySkillset = "Trabalho em Equipe, Espirito de Liderança,"
+ const languages = listOf("JavaScript", "React", "C#", ".Net", "TypeScipt") 
+
+}
+```
 
 ##
 
 [![card](https://github-readme-stats.vercel.app/api?username=guidrop17&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=guidrop17&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ##
 
