@@ -7,8 +7,8 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/29720117/178900112-19b418b5-8411-4d68-a3ef-4f5adc1bd179.png"/>
 
-```kotlin
-object **SEU NOME** {
+```javascript
+const sobreMim = () => {
  const name = "Guilherme Araujo Nascimento"
  const acknowledgements = "Dev React (aprendendo C#)"
  
