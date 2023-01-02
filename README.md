@@ -20,8 +20,8 @@ const sobreMim = () => {
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guidrop17&show_icons=true&theme=radical)
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=guidrop17&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guidrop17&show_icons=true&theme=radical)
+![Guilherme's Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=guidrop17&hide=html&layout=compact&theme=radical)
 
 
 ##
