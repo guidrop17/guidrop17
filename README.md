@@ -10,10 +10,10 @@
 ```javascript
 const sobreMim = () => {
  const name = "Guilherme Araujo Nascimento"
- const acknowledgements = "Dev React (aprendendo C#)"
+ const acknowledgements = "Dev React"
  
  const primarySkillset = "Trabalho em Equipe, Espirito de Liderança,"
- const languages = listOf("JavaScript", "React", "C#", ".Net", "TypeScipt") 
+ const languages = listOf("JavaScript", "TypeScipt") 
 
 }
 ```
