@@ -15,12 +15,6 @@ const aboutMe = () => {
 
 }
 ```
-
-##
-
-![Guilherme's Use Language](https://github-readme-stats.vercel.app/api/top-langs/?username=guidrop17&hide=html&layout=compact&theme=radical)
-
-
 ## 🌐 Stack
 
  <div><br>
