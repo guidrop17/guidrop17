@@ -1,6 +1,6 @@
 
 <h3>Hi Guys 👋</h3>
-<p>I'm a Frontend developer and game content creator in my spare time.</p>
+<p>I'm a Frontend developer</p>
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
