@@ -1,7 +1,4 @@
-
-<h3>Hi Guys 👋</h3>
-<p>I'm a Frontend developer</p>
-
+### Hi Guys, I'm Guilherme 👋 ![Profile views](https://komarev.com/ghpvc/?username=guidrop17&style=flat&color=orange&label=PROFILE+VIEWS)
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About me
 
@@ -12,6 +9,7 @@ const aboutMe = () => {
  const name = "Guilherme Araujo Nascimento"
  const primarySkillset = "Team Work, Leadership Spirit"
  const languages = listOf("JavaScript", "TypeScipt")
+ const frameworks = listOf("React, Next, Angular")
 
 }
 ```
